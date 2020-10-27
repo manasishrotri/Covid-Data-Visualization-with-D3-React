@@ -27,5 +27,7 @@ With the box plot we can see which contry had more variation in data. Brazil has
 
 ## Visualization 3
 
-This visualization shows top 10 countries in descending order of their number of new cases. With the filter with date, we can see the changes in ranking of countries as date changes
+![image](https://user-images.githubusercontent.com/60999947/97350889-6fb89d00-1867-11eb-9da1-b59815c75511.png)
+
+This visualization shows top 10 countries in descending order of their number of total cases. With the filter with date, we can see the changes in ranking of countries as date changes
 [Covid New Cases Bar chart](https://vizhub.com/manasishrotri/1c8d8d8bb0f54b0f99346da877dad473)
