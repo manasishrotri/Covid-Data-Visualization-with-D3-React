@@ -18,6 +18,8 @@ With the line chart of each country, we can see cases added on each day. For Bra
 
 ## Visualization 2
 
+![image](https://user-images.githubusercontent.com/60999947/97350724-29633e00-1867-11eb-96df-32de25dae997.png)
+
 [Covid New Cases Box plot](https://vizhub.com/manasishrotri/c5a03d252d094bbf899a5611d813d9ab)
 
 With the box plot we can see which contry had more variation in data. Brazil has distribution of data going from 0 till 30000 which means number of cases significantly increases for Brazil while for India and Peru it was controlled.
