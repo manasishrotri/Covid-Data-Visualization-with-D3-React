@@ -8,6 +8,9 @@ The original data was taken from Kaggle: Corona virus cases. It has covid patien
 This data is available on my gist [World corona virus cases May2020](https://gist.github.com/manasishrotri/4e43a48d4a8c89f011dbf18b7de28190)
 
 ## Visualization 1
+[
+![image](https://user-images.githubusercontent.com/60999947/97350155-c70a3d80-1866-11eb-863e-399ea5b0aa4c.png)
+](url)
 
 [Covid New cases by country in month of May](https://vizhub.com/manasishrotri/f250f1d380674efe978df3babea210fb)
 
